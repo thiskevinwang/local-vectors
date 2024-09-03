@@ -1,0 +1,20 @@
+{
+  "name": "local-vectors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "openai": "^4.57.0",
+    "pg": "^8.12.0",
+    "pgvector": "^0.2.0"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.11.8"
+  }
+}
